@@ -1,5 +1,5 @@
 # findFailBash
-A simple bash script using grep to store error messages from pipeline logs in a seperate file for readability,
+A simple bash script(more like a grep command with easier parameters) using grep to store error messages from pipeline logs in a seperate file for readability,
 By default it searches for lines containing ---FAIL: however this can be changed by editing the file.
 
 # Using the script
